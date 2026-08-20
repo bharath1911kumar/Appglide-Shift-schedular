@@ -1,1 +1,0 @@
-# Appglide-Shift-schedular
